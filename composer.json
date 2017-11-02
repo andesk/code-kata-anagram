@@ -1,0 +1,13 @@
+{
+    "name": "inviqa/code-kata-anagram",
+    "description": "Anagram Code Kata",
+    "authors": [
+        {
+            "name": "dantleech",
+            "email": "dan.t.leech@gmail.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^4.2"
+    }
+}
